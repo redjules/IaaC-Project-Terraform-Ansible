@@ -75,3 +75,8 @@ the resource was executed as last component
 
 ![Screenshot 2024-02-29 at 10 23 05](https://github.com/redjules/IaaC-Project-Terraform-Ansible/assets/106017493/39be47dd-5971-406d-9144-db6d4f329f0a)
 
+if now we ssh into the server, we should see all the containers running again:
+
+![Screenshot 2024-02-29 at 10 25 21](https://github.com/redjules/IaaC-Project-Terraform-Ansible/assets/106017493/234e144e-7073-436d-95e6-6a8d0a955973)
+
+
