@@ -36,9 +36,9 @@ we change to all the hosts:
 ![Screenshot 2024-02-29 at 10 03 49](https://github.com/redjules/IaaC-Project-Terraform-Ansible/assets/106017493/aa1bfe68-65b2-4d46-87ec-fa870d5d8c87)
 
 
-we have ll the containers running from the server:
+we have all the containers running from the server:
 
-![Screenshot 2024-02-29 at 10 02 24](https://github.com/redjules/IaaC-Project-Terraform-Ansible/assets/106017493/f7e8d78b-f3d8-4c06-9550-e0a2ce7030f4)
+![Screenshot 2024-09-17 at 23 03 55](https://github.com/user-attachments/assets/d9aee00d-a4b6-4c43-9a0f-45013c95ec12)
 
 Using provisioners are not the recommended way in Terraform because terraform has no control over the provisioners so it cannot manage the state. One of the problems we have with provisioners is the timing issue. By the time the resource is executed, the EC2 instance may not be fully created and initialized. 
 
